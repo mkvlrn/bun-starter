@@ -1,0 +1,3 @@
+bun typecheck
+bun biome-check
+bun test --bail=1
