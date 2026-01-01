@@ -15,11 +15,6 @@
     "typescript",
     "template"
   ],
-  "imports": {
-    "#*": {
-      "default": "./src/*.ts"
-    }
-  },
   "scripts": {
     "dev": "bun --watch src/main.ts",
     "start": "bun src/main.ts",
